@@ -1,0 +1,5 @@
+fastapi
+pandas
+ta
+requests
+uvicorn
